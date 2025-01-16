@@ -52,11 +52,17 @@
 
 ###
 
-<div align="left">
+<div align ="left">
   <a href="https://www.linkedin.com/in/mohamed-ashraf-018772221" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/mo7amedd_ashraf?igsh=d3p2Z2M4NXRuOG8%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-<a href="https://t.me/mo7amedd_ashraf1"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
-<a href="https://wa.me/+201273349622"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
+  
+  <a href ="https://wa.me/+201273349622"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  /></a>
+
+  <a href ="https://www.facebook.com/share/14rNuUWid4/?mibextid=wwXIfr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
+
+  <a href ="https://www.instagram.com/mo7amedd_ashraf?igsh=d3p2Z2M4NXRuOG8%3D&utm_source=qr"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+  
+  <a href="https://t.me/mo7amedd_ashraf1"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /></a>
+
 </div>
 
 ###
