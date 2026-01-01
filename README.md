@@ -2,7 +2,58 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="center">Mohamed Ashraf</h1>
+
+<h2 align="center">
+  <span id="typing"></span>
+</h2>
+
+<script>
+  const text = "Front-End Developer";
+  const typingElement = document.getElementById("typing");
+  let index = 0;
+  let isDeleting = false;
+
+  function typeEffect() {
+    let currentText = text.substring(0, index);
+    typingElement.textContent = currentText;
+
+    if (!isDeleting && index < text.length) {
+      index++;
+    } else if (isDeleting && index > 0) {
+      index--;
+    }
+
+    if (index === text.length) {
+      setTimeout(() => isDeleting = true, 1000);
+    } else if (index === 0 && isDeleting) {
+      isDeleting = false;
+    }
+
+    setTimeout(typeEffect, 120);
+  }
+
+  typeEffect();
+</script>
+
+<style>
+  #typing {
+    font-weight: bold;
+    font-size: 28px;
+    color: #FF5733;
+    font-family: 'Courier New', monospace;
+    border-right: 2px solid #FF5733;
+    padding-right: 5px;
+    text-align: center;
+    display: inline-block;
+    animation: blink 0.7s infinite;
+  }
+
+  @keyframes blink {
+    50% { border-color: transparent; }
+  }
+</style>
+
 
 ###
 
