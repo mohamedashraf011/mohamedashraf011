@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">My name is Mohamed, and I am a Front-End Developer from Egypt. I specialize in building modern, responsive, and user-focused websites using HTML, CSS, JavaScript, and frameworks like React and Next.js. I’m passionate about creating interfaces that are both visually appealing and highly functional, with a strong focus on performance, accessibility, and user experience.<br><br>I enjoy solving challenges, improving UI interactions, and making websites more engaging through clean and maintainable code. I am always learning new technologies and techniques to stay updated and continue growing professionally in the field of web development.</h4>
+<h4 align="center">My name is Mohamed, and I am a Front-End Developer from Egypt. I specialize in building modern, responsive, and user-focused websites using HTML, CSS, JavaScript, and frameworks like React and Next.js. I’m passionate about creating interfaces that are both visually appealing and highly functional, with a strong focus on performance, accessibility, and user experience.<br><br>I enjoy solving challenges, improving UI interactions, and making websites more engaging through clean and maintainable code. I am always learning new technologies and techniques to stay updated and continue growing professionally in the field of web development.</h4>
 
 ###
 
