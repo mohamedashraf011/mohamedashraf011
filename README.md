@@ -1,6 +1,11 @@
 <h1 align="center">Mohamed Ashraf</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=52A2B1&background=32323200&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=52A2B1&background=32323200&center=true&vCenter=true&width=435&lines=Front-End+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
 
 ###
 
